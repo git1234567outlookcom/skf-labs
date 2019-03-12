@@ -8,7 +8,6 @@ CSS Injection | TODO
 Crlf injection | TODO
 Session Fixation | TODO
 Weak CAPTCHA Bypass | TODO
-DNS Ribinding | TODO
 SQLi-blind | Assigned
 JWT Null Cipher | Assigned
 JWT Cipher Substitution | Assigned
